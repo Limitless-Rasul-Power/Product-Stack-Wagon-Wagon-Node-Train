@@ -11,9 +11,6 @@ private:
 
 public:
 
-	/*Wagon* next;
-	Wagon* prev;*/
-
 	Wagon();
 
 	Wagon(const std::string&, const std::string&, const double&, Stack**, const short&);
